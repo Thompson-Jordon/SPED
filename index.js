@@ -50,6 +50,7 @@ const players = [
 let teamsIdIndex = teams.length - 1;
 let playerIdIndex = players.length - 1;
 
+// typeDefs will describe the graphql schema
 const typeDefs = `
   type Team {
     id: ID!
@@ -83,6 +84,8 @@ const typeDefs = `
   }
 `;
 
+
+// The resolvers define how each call will return its data
 const resolvers = {
   Query: {
     allTeams: (root, args, context) => {
