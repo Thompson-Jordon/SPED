@@ -29,7 +29,7 @@ Once your on the server you can check out the `DOCS` and `SCHEMA` tabs on the ri
 
 ## When to use [GraphQL](https://graphql.org/)?
 
-I found a great article on [Medium](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d) that talks about when you should use [GraphQL](https://graphql.org/). In short if you have an existing stable API you should probably leave it alone. 
+I found a great article on [Medium](https://medium.com/@JeffLombardJr/when-and-why-to-use-graphql-24f6bce4839d) by JeffLombard that talks about when you should use [GraphQL](https://graphql.org/). In short if you have an existing stable API you should probably leave it alone. 
 
 Reasons of using GraphQL:
 * Its easier
